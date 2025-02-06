@@ -1,4 +1,5 @@
 AI Semester 1 Coursework - First class achieved based on code efficiency, quality and a report.
+
 Technologies Used: Python, NumPy, Backtracking Algorithm, Constraint Propagation
 
 Key Contributions:
